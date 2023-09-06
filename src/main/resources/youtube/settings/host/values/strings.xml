@@ -401,7 +401,12 @@
     <string name="revanced_hide_player_flyout_panel_report_summary_on">Report menu is hidden</string>
     <string name="revanced_hide_player_flyout_panel_report_title">Hide report menu</string>
     <string name="revanced_hide_player_flyout_panel_speed_summary_off">Playback speed menu is shown</string>
-    <string name="revanced_hide_player_flyout_panel_speed_summary_on">Playback speed menu is hidden</string>
+    <string name="revanced_hide_player_flyout_panel_quality_footer_summary_off">Quality layout footer is shown</string>
+    <string name="revanced_hide_player_flyout_panel_quality_footer_summary_on">Quality layout footer is hidden</string>
+    <string name="revanced_hide_player_flyout_panel_quality_footer_title">Hide quality layout footer</string>
+    <string name="<string name="revanced_hide_player_flyout_panel_quality_footer_summary_off">Quality layout footer is shown</string>
+    <string name="revanced_hide_player_flyout_panel_quality_footer_summary_on">Quality layout footer is hidden</string>
+    <string name="revanced_hide_player_flyout_panel_quality_footer_title">Hide quality layout footer</string>">Playback speed menu is hidden</string>
     <string name="revanced_hide_player_flyout_panel_speed_title">Hide playback speed menu</string>
     <string name="revanced_hide_player_flyout_panel_stats_for_nerds_summary_off">Stats for nerds menu is shown</string>
     <string name="revanced_hide_player_flyout_panel_stats_for_nerds_summary_on">Stats for nerds menu is hidden</string>
